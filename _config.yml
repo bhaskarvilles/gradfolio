@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Bhaskar Ram
+description: Hacker & Dev | Affiliations | Motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /bhaskarvilles #name of GitHub repository
+url: "https://bhaskarvilles.dev" #custom url to be used instead of GitHub repository
+email: bhaskar@parrotsec.in
 
 
 highlighter: rouge
@@ -17,10 +17,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
+facebook: "https://facebook.com/bhaskarvilles"
+twitter: "https://twitter.com/bhaskarvilles"
+linkedin: "https://linkedin.com/bhaskarvilles"
+github: "https://github.com/bhaskarvilles"
 researchgate: "#"
 orcid: "#"
 
